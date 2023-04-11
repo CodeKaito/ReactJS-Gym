@@ -22,8 +22,8 @@ The app includes the following features:
 
 To run the app locally, follow these instructions:
 
-1. Clone the repository to your local machine: `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`.
-2. Navigate to the project directory: `cd fitness-exercises-app`.
+1. Clone the repository to your local machine: `git clone https://github.com/CodeKaito/ReactJS-Gym`.
+2. Navigate to the project directory: `cd ReactJS-Gym`.
 3. Install dependencies: `npm install`.
 4. Start the app: `npm start`. This will launch the app in development mode on `http://localhost:3000/`.
 
